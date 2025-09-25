@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='./assets/web102.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./src/assets/web102.gif' title='Video Walkthrough'  alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
